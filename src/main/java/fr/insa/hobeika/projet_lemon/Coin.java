@@ -39,6 +39,6 @@ public class Coin {
     {
         System.out.println(" Coin : id ="+this.idCoin+" abscisse = "+this.cx+ " Ordonnée ="+this.cy);
     }
-         //coucou de emma   
+    //coucou de emma   
     //coucou2
 }
